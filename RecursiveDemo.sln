@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveDemo", "RecursiveDemo\RecursiveDemo.csproj", "{B54B6681-23B5-472F-B0A6-8DD1BC77DB1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveDemoTests", "RecursiveDemoTests\RecursiveDemoTests.csproj", "{B8F87D50-044E-4436-90B7-B6435020FEB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54B6681-23B5-472F-B0A6-8DD1BC77DB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54B6681-23B5-472F-B0A6-8DD1BC77DB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54B6681-23B5-472F-B0A6-8DD1BC77DB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54B6681-23B5-472F-B0A6-8DD1BC77DB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F87D50-044E-4436-90B7-B6435020FEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F87D50-044E-4436-90B7-B6435020FEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F87D50-044E-4436-90B7-B6435020FEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F87D50-044E-4436-90B7-B6435020FEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFCA66BE-616F-414B-8042-EE4A880AE9A5}
+	EndGlobalSection
+EndGlobal

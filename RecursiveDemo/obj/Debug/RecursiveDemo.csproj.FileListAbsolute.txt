@@ -1,0 +1,7 @@
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemo\bin\Debug\RecursiveDemo.exe.config
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemo\bin\Debug\RecursiveDemo.exe
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemo\bin\Debug\RecursiveDemo.pdb
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemo\obj\Debug\RecursiveDemo.csprojResolveAssemblyReference.cache
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemo\obj\Debug\RecursiveDemo.csproj.CoreCompileInputs.cache
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemo\obj\Debug\RecursiveDemo.exe
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemo\obj\Debug\RecursiveDemo.pdb

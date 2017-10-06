@@ -1,0 +1,16 @@
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\bin\Debug\RecursiveDemoTests.dll
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\bin\Debug\RecursiveDemoTests.pdb
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\bin\Debug\RecursiveDemo.exe
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\bin\Debug\RecursiveDemo.pdb
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\bin\Debug\RecursiveDemo.exe.config
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\obj\Debug\RecursiveDemoTests.csprojResolveAssemblyReference.cache
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\obj\Debug\RecursiveDemoTests.csproj.CoreCompileInputs.cache
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\obj\Debug\RecursiveDemoTests.dll
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\RecursiveDemoTests\obj\Debug\RecursiveDemoTests.pdb

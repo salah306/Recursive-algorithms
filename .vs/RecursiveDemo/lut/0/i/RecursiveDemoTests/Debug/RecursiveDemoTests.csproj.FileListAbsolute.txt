@@ -1,0 +1,9 @@
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\.vs\RecursiveDemo\lut\0\b\RecursiveDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\.vs\RecursiveDemo\lut\0\b\RecursiveDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\.vs\RecursiveDemo\lut\0\b\RecursiveDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\.vs\RecursiveDemo\lut\0\b\RecursiveDemoTests\bin\Debug\RecursiveDemoTests.dll
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\.vs\RecursiveDemo\lut\0\b\RecursiveDemoTests\bin\Debug\RecursiveDemoTests.pdb
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\.vs\RecursiveDemo\lut\0\i\RecursiveDemoTests\Debug\RecursiveDemoTests.csprojResolveAssemblyReference.cache
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\.vs\RecursiveDemo\lut\0\i\RecursiveDemoTests\Debug\RecursiveDemoTests.csproj.CoreCompileInputs.cache
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\.vs\RecursiveDemo\lut\0\i\RecursiveDemoTests\Debug\RecursiveDemoTests.dll
+C:\Users\moham\Documents\Visual Studio 2017\Projects\RecursiveDemo\.vs\RecursiveDemo\lut\0\i\RecursiveDemoTests\Debug\RecursiveDemoTests.pdb
